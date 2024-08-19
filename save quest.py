@@ -4,8 +4,6 @@ import requests
 
 print("hi")
 
-# Chemin vers le fichier JSON contenant les informations d'authentification
-json_file_path = 'auth.json'
 
 accid = ""
 
