@@ -7,7 +7,7 @@ print("hi")
 # Chemin vers le fichier JSON contenant les informations d'authentification
 json_file_path = 'auth.json'
 
-accid = "f326188ada7a440796de3505dc928449"
+accid = ""
 
 # URL d'authentification et données
 auth_url = "https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token"
